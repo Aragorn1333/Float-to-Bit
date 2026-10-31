@@ -24,4 +24,18 @@ Este repositorio contiene la documentación oficial derivada de la investigació
 ---
 
 ## ⚖️ Licencia y Uso
-Este trabajo es una obra original protegida. Queda prohibida su reproducción total o parcial sin la debida atribución al autor.
+Este trabajo es una obra original protegida. Todos los derechos quedan reservados al autor, salvo autorización expresa y por escrito.
+
+Queda prohibida la reproducción, distribución, modificación, extracción de contenido, creación de obras derivadas o uso comercial, total o parcial, sin autorización previa. La atribución al autor no sustituye dicha autorización.
+
+## 🔒 Protección de los PDF
+
+Los archivos PDF del repositorio están cifrados con AES-256 y configurados para permitir únicamente su lectura en lectores PDF compatibles. Se han deshabilitado:
+
+* impresión;
+* copia o extracción de texto e imágenes;
+* modificación del documento;
+* comentarios, formularios y firmas;
+* ensamblado del documento.
+
+Estas restricciones son controles técnicos para lectores que respetan los permisos PDF; no constituyen un DRM infalible. Un lector no compatible puede ignorarlas y ningún PDF puede impedir por completo capturas de pantalla o la redistribución no autorizada. Para una protección legal completa, conserva también pruebas de autoría y registra la obra según la legislación aplicable.
