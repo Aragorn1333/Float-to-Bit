@@ -3,8 +3,8 @@
   de una amplitud de probabilidad continua a su transformación como información binaria
 
 > **Autor:** German A. Garduño Santos (@SoyAzari)  
-> **Estado:** Documento en espera de lanzamiento oficial (Privado)  
-> **Área:** Física Teórica / Sistemas de Información Macroscópicos  
+> **Estado:** Documento disponible en línea
+> **Área:** Física Teórica / Sistemas de Información Macroscópicos
 
 ---
 
@@ -27,6 +27,9 @@ Este repositorio contiene la documentación oficial derivada de la investigació
 Este trabajo es una obra original protegida. Todos los derechos quedan reservados al autor, salvo autorización expresa y por escrito.
 
 Queda prohibida la reproducción, distribución, modificación, extracción de contenido, creación de obras derivadas o uso comercial, total o parcial, sin autorización previa. La atribución al autor no sustituye dicha autorización.
+
+## Float to Bit
+**DOI:** [10.5281/zenodo.23844522](https://doi.org/10.5281/zenodo.23844522)
 
 ## 🔒 Protección de los PDF
 
